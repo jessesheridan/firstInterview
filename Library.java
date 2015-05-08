@@ -1,4 +1,6 @@
-/* Begin Library.Java */
+/* Begin Library.Java
+ * This file was given to me by the company I interviewed with, I created EarlLibrary.java to interact with this.
+*/
 package org.screening.problems.library;
 
 public interface Library {
